@@ -1,1 +1,1 @@
-Click on the Name to view app
+Click on the Name to view app files
